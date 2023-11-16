@@ -1,1 +1,3 @@
 # training
+
+- Tambah kata kata
